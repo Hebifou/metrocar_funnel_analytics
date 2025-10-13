@@ -27,7 +27,3 @@ All results are **reproducible** and based on publicly shareable, simulated data
 
 ![Funnel Chart](reports/funnel_plot.png)
 ![Retention Heatmap](reports/retention_heatmap.png)
-
----
-
-## Repository Structure
