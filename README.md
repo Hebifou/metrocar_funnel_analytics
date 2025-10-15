@@ -1,4 +1,4 @@
-# Metrocar – Funnel & Retention Analytics (Public Version)
+# Metrocar – Funnel & Retention Analytics
 
 This project demonstrates an **end-to-end growth funnel and retention analysis** using simulated data from a fictional ride-sharing company, **Metrocar**.  
 It replicates a typical **growth analytics workflow** — from SQL-style exploration to Python-based visualization — to identify key **bottlenecks and retention patterns** in the user lifecycle.
